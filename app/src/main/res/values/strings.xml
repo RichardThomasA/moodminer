@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MoodMiner</string>
     <string name="username">UserName</string>
+    <string name="dashboard">dashboard</string>
 </resources>
