@@ -47,9 +47,20 @@
         android:ems="10"
         android:id="@+id/editText2"
         android:layout_below="@+id/editText"
+        android:layout_toRightOf="@+id/textView2"
         android:layout_marginTop="25px"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:id="@+id/button"
+        android:layout_below="@+id/editText2"
+        android:layout_toRightOf="@+id/textView2"
+        android:layout_toEndOf="@+id/textView2"
+        android:layout_marginTop="51dp" />
 
 
 </RelativeLayout>
